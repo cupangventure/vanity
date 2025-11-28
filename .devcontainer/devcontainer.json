@@ -1,0 +1,6 @@
+{
+  "name": "Rust Vanity",
+  "image": "mcr.microsoft.com/devcontainers/rust:1",
+  "features": {},
+  "postCreateCommand": "cargo fetch"
+}
